@@ -13,6 +13,7 @@
 - 가구상세페이지(좋아요, 장바구니, 리뷰신고)
 
 ### 시연영상
+[![Video Label](http://img.youtube.com/vi/f-gETucbUes/0.jpg)](https://youtu.be/f-gETucbUes=0s)
 
 ### 사이트맵
 - 관리자모드
@@ -23,4 +24,3 @@
 
 ### DB구조(ERD)
 ![erd](https://user-images.githubusercontent.com/59267825/76701557-a4774a00-6705-11ea-8543-5415c3819192.gif)
-
