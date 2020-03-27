@@ -13,7 +13,7 @@
 - 가구상세페이지(좋아요, 장바구니, 리뷰신고)
 
 ### 시연영상
-[![Video Label](http://img.youtube.com/vi/f-gETucbUes/0.jpg)](https://youtu.be/f-gETucbUes=0s)
+[![Video Label](http://img.youtube.com/vi/c6VdWLU0aok/0.jpg)](https://youtu.be/c6VdWLU0aok=0s)
 
 ### 사이트맵
 - 관리자모드
